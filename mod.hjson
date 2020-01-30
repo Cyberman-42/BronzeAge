@@ -1,0 +1,5 @@
+name: "BronzeAge"
+author: "Cyberman"
+description: "Adds [#ff9800]bronze[] to the game, made from [#ff9800]tin[] and copper."
+version: "0.4"
+minGameVersion: "102"

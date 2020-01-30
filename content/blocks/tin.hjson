@@ -1,0 +1,6 @@
+type: OreBlock
+itemDrop: tin
+oreDefault: true
+variants: 3
+
+

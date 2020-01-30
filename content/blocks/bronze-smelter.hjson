@@ -1,0 +1,33 @@
+name: Bronze Smelter
+description: Makes bronze from tin and copper
+type: GenericSmelter
+
+size: 2
+health: 100
+craftTime: 60
+
+solid: true
+craftEffect: smeltsmoke
+
+hasPower: false
+hasLiquids: false
+hasItems: true
+consumes: {
+	items: {
+		items: [
+			copper/2
+            tin/2
+		]
+	}
+}
+
+outputItem: bronze/1
+
+requirements: [
+	copper/40
+    lead/30
+    tin/30
+]
+
+category: crafting
+research: mechanical-drill

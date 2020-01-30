@@ -1,0 +1,15 @@
+v0.4
+Updated sprites: Tin, Bronze and Tin ore
+Updated sprite: Heat Drill
+
+v0.3
+Added drill: Heat Drill
+Updated sprite: Bronze Smelter
+
+v0.2
+Added ore: Tin ore
+Tin ore generates randomly in maps
+
+v0.1
+Added resources: Tin and Bronze
+Added factory: Bronze Smelter
