@@ -1,0 +1,20 @@
+name: Heat Drill
+description: Uses a bronze drill to mine faster.
+type: Drill
+
+drillTime: 500
+
+size: 2
+health: 100
+tier: 2
+
+solid: true
+
+requirements: [
+	copper/40
+    lead/30
+    bronze/30
+]
+
+category: production
+research: mechanical-drill

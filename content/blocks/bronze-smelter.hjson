@@ -2,7 +2,7 @@ name: Bronze Smelter
 description: Makes bronze from tin and copper
 type: GenericSmelter
 
-size: 2
+size: 3
 health: 100
 craftTime: 60
 
@@ -15,7 +15,7 @@ hasItems: true
 consumes: {
 	items: {
 		items: [
-			copper/2
+			copper/3
             tin/2
 		]
 	}
