@@ -2,6 +2,7 @@ v0.5
 Updated a lot of sprites
 Bronze smelter is now 3x3
 Removed Bronze turret due to difficulties modding a laser (will add later)
+Renamed Heat drill to Bronze drill
 
 v0.4
 Updated sprites: Tin, Bronze and Tin ore
